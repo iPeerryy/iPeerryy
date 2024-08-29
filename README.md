@@ -1,6 +1,6 @@
 ## Hi, I am Jose Daniel! Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am Jose Daniel, currently pursuing my Bachelor Of Technology in Computer Science. I am a tech enthusiast. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am Jose Daniel, currently pursuing my Bachelor Of Technology in Computer Science. I am a tech enthusiast. I am always open to collaborating on projects and innovative/disruptive ideas. 
 
 
 ## ⚡ Technologies
